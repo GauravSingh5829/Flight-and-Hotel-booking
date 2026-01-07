@@ -22,9 +22,5 @@ A full-stack hotel booking web application built using Django.
 - signup/
 - website/
 
-## Credits
-Original project by **TharunkrishnaD**  
-This repository is a cleaned and documented version for learning and deployment purposes.
-
 ## Setup
 Instructions will be added.
